@@ -1,9 +1,9 @@
-1-Prolab iki proje adlı dosyayı açınız ve kodunuza uyarlamak istediğiniz txt dosyalarınızı yükleyiniz,
-2-Dosya içinde bulunan '.text dosyasındaki classları' Netbeans geliştirme ortamında açınız,
-3-Dosyanız açıldıktan sonra öncelikle Build ediniz,
-4-Build ettikten sonra kodunuzda bir hata yoksa Run tuşuna basınız,
-5-Grafik ekranında oyununuzun başlangıç seçimini PC-PC yada PC-PERSON yapınız.
-6-PC-PERSON butonunu seçtiyseniz kullanıcı adınızı yazınız ve ardından kart dağıt butonuna basınız. 
-7--PC-PC butonunu seçtiyseniz kart dağıt butonuna basınız. 
-8-Oyun devam ederken elinizdeki kartlar eksildikçe yukarıdan kart seçiniz. 
-9-Hesaplanan skor puanına göre oyunun galibi ekranda yazılıyors.
+1-src adlÄ± dosyayÄ± aÃ§Ä±nÄ±z ve kodunuza uyarlamak istediÄŸiniz txt dosyalarÄ±nÄ±zÄ± yÃ¼kleyiniz,
+2-Dosya iÃ§inde bulunan '.text dosyasÄ±ndaki classlarÄ±' Netbeans geliÅŸtirme ortamÄ±nda aÃ§Ä±nÄ±z,
+3-DosyanÄ±z aÃ§Ä±ldÄ±ktan sonra Ã¶ncelikle Build ediniz,
+4-Build ettikten sonra kodunuzda bir hata yoksa Run tuÅŸuna basÄ±nÄ±z,
+5-Grafik ekranÄ±nda oyununuzun baÅŸlangÄ±Ã§ seÃ§imini PC-PC yada PC-PERSON yapÄ±nÄ±z.
+6-PC-PERSON butonunu seÃ§tiyseniz kullanÄ±cÄ± adÄ±nÄ±zÄ± yazÄ±nÄ±z ve ardÄ±ndan kart daÄŸÄ±t butonuna basÄ±nÄ±z. 
+7--PC-PC butonunu seÃ§tiyseniz kart daÄŸÄ±t butonuna basÄ±nÄ±z. 
+8-Oyun devam ederken elinizdeki kartlar eksildikÃ§e yukarÄ±dan kart seÃ§iniz. 
+9-Hesaplanan skor puanÄ±na gÃ¶re oyunun galibi ekranda yazÄ±lÄ±yors.
